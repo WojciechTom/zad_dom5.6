@@ -2,7 +2,7 @@ package liczbyQuiz;
 
 import java.util.Scanner;
 
-public class liczbyQuiz {
+public class LiczbyQuiz {
 
     public static void main(String[] args) {
 
@@ -36,5 +36,6 @@ public class liczbyQuiz {
         } while (liczba < 100 || liczba > 200 || liczba % 3 != 0);
 
         System.out.println("Liczba prawidłowa");
+
     }
 }
