@@ -1,5 +1,4 @@
-package Cwiartki;
-import java.lang.invoke.SwitchPoint;
+package cwiartki;
 import java.util.Scanner;
 
 public class Cwiartki {
@@ -34,9 +33,6 @@ public class Cwiartki {
         if (x==0 && y==0) {
             System.out.println("Początek układu - punkt (0,0)");
         }
-
-
-
 
     }
 
